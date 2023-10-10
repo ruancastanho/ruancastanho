@@ -1,6 +1,6 @@
 👋 Olá Sou Ruan Castanho
 
-🌱 Estudante de Analise e Desenvolvimento de Sistemas
+🌱 Analista de Dados e Programador Python
 
 💞️ Apaixonado Por Programação e Analise de Dados
 
